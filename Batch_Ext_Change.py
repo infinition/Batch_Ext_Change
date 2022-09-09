@@ -1,4 +1,5 @@
 #change l'extension de tous les fichiers d'un dossier et de ses sous-dossiers
+#test
 import os
 
 def change_extension_all_files(dossier):
